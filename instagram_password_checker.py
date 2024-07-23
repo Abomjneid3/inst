@@ -3,7 +3,7 @@ import json
 
 # Set the Instagram username and password file
 username = "abom_jneid"
-password_file = "./data/data/com.termux/files/home/password.txt"
+password_file = "password.txt"
 
 # Set the Instagram login URL
 login_url = "https://www.instagram.com/accounts/login/"
