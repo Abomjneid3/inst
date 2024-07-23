@@ -2,7 +2,7 @@ import requests
 import json
 
 # Set the Instagram username and password file
-username = "abom_jneid"
+username = "a_t_2022_1"
 password_file = "password.txt"
 
 # Set the Instagram login URL
